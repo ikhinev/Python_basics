@@ -1,0 +1,1 @@
+print('my first day as a python programmer')
