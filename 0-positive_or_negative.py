@@ -9,4 +9,4 @@ else:
 
 
 
-git clone https://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@github.com/ikhinev/repository.git
+
